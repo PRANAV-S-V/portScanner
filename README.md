@@ -4,5 +4,5 @@ Step 1: Check whether the dependencies are available in your system, if not inst
 Step 2: Run the main.py file using python
 ```bash
 $python3 main.py
-
-
+```
+Step 3: Follow the instructions displayed on the screen.
